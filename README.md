@@ -1,2 +1,2 @@
 # Google_homepage useing html css
-a simple basic HTML,CSS project to bulid google homepage
+Simple basic HTML,CSS project to bulid a web page just like google homepage
